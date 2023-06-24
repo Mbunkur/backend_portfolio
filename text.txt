@@ -1,0 +1,7 @@
+password:  J7q4tqfuvisjKMNw
+
+username:  alainmbunkur
+
+mongodb+srv://alainmbunkur:J7q4tqfuvisjKMNw@reactbackendportfolio.0s7bltd.mongodb.net/
+
+mongodb+srv://alainmbunkur:J7q4tqfuvisjKMNw@reactbackendportfolio.0s7bltd.mongodb.net/?retryWrites=true&w=majority
